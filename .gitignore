@@ -1,0 +1,3 @@
+*.safetensors
+*.pkl
+model_export/

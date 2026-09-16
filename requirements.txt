@@ -1,0 +1,9 @@
+torch
+torchvision
+segmentation-models-pytorch
+safetensors
+huggingface_hub
+joblib
+opencv-python-headless
+Pillow
+numpy
