@@ -1,3 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+node_modules/
+.next/
+frontend/.env.local
 *.safetensors
 *.pkl
 model_export/

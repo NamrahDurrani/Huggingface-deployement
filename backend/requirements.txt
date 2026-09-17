@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+python-multipart
+torch
+torchvision
+segmentation-models-pytorch
+safetensors
+huggingface_hub
+joblib
+scikit-learn==1.6.1
+opencv-python-headless
+Pillow
+numpy
